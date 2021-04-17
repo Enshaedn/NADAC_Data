@@ -1,6 +1,11 @@
 ### Why did you think stat x was important?
 
 ### What do you wish the data had?  
+Perhaps an extra column to filter the data in terms of 'type' or treatments. For example, 
+getting the average cost for the entire dataset seems kind of meaningless, but if there was 
+a column for aspirin, cough medicine, cancer medicine, etc then one could query based on the 
+'type' of medicine. What is the average cost of apsirin? What is the most expensive cancer medication?
+Most expensive generic vs brand cancer medication? 
 
 ### What piece of information is the most important?  Why?
 It is hard to know because I'm not familiar with the dataset nor the industry. 
