@@ -28,7 +28,7 @@ While it didn't take too long overall it was a manual process and did take some 
 Of importing the data? I would automate it. 
 
 ### How would you automate downloading / updating the data?
-I haven't ever had to set up an automated system like this before, but I think I'd use some combination of
-NADAC's API endpoint and a Event / stored procedure / cron job, or some sort of combination
+I haven't ever set up an automated system like this before, but I think I'd use some combination of
+NADAC's API endpoint and an Event / stored procedure / cron job, or some sort of combination
 
 ### What other questions would you ask from this data set if you had more time to explore?
