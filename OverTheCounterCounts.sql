@@ -1,13 +1,5 @@
-SELECT 
+SELECT
 	OTC,
     COUNT(OTC) AS 'Quantity'
 FROM nadac
-WHERE OTC LIKE 'Y'
-
-UNION 
-
-SELECT 
-	OTC, 
-    COUNT(OTC) AS 'Quantity'
-FROM nadac
-WHERE OTC LIKE 'N'
+GROUP BY OTC
