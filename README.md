@@ -45,3 +45,6 @@ I haven't ever set up an automated system like this before, but I think I'd use 
 NADAC's API endpoint and an Event / stored procedure / cron job, or some sort of combination
 
 ### What other questions would you ask from this data set if you had more time to explore?
+I might ask about other medications with which I'm familiar. I might also try to figure out cost ranges of 
+different medications or dates by which a generic version of a medication became available. Perhaps how
+many brandname medications have a generic available.
